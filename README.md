@@ -1,0 +1,31 @@
+## Hello! I'm st and I do cool things I guess.
+
+<div align="center">
+  <a href="https://github.com/st7712">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=st7712&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=st7712&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+ 
+<div align="center"><br>
+   <div style="display: inline_block">
+    <img align="center" alt="imst-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="imst-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="imst-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="imst-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="imst-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="imst-lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+  </div>
+  
+   <br><a href = "mailto:imstcool@protonmail.com"><img src="https://img.shields.io/badge/-protonmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+ </div>
+</div>
+  
+  ##
+ ![Snake animation](https://github.com/st7712/st7712/blob/output/github-contribution-grid-snake.svg)
+
+  ## My Current Projects
+  - {st's cool selfbot} - Discord selfbot with some cool commands and features!
+ 
+<br>
+  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=st7712&repo=sts-cool-selfbot&theme=github_dark)](https://github.com/st7712/sts-cool-selfbot)
