@@ -5,8 +5,7 @@
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
   <img src="https://komarev.com/ghpvc/?username=st7712&color=ff69b4"/>
 </div>
-
-
+  
 <div align="center">
   <a href="https://github.com/st7712">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=st7712&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -28,7 +27,7 @@
 </div>
   
 ##
-<div style="text-align:center;">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/st7712/st7712/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/st7712/st7712/blob/output/github-contribution-grid-snake.svg" />
