@@ -51,9 +51,9 @@
  
 <br>
 
-<div align="center">
+<div>
+  <a href="https://github.com/st7712">
   <picture>
-    <a href="https://github.com/st7712/sts-cool-selfbot")
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=st7712&repo=sts-cool-selfbot&theme=github_dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=st7712&repo=sts-cool-selfbot&theme=github_light" />
     <img alt="github-snake" src="github-snake.svg" />
