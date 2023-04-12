@@ -1,6 +1,11 @@
 ## Hello! I'm st and I do cool things I guess.
 
-![](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) ![](https://komarev.com/ghpvc/?username=st7712&color=ff69b4)
+<div align="center">
+  <a href="https://github.com/st7712">
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=st7712&color=ff69b4"/>
+</div>
+
 
 <div align="center">
   <a href="https://github.com/st7712">
@@ -22,8 +27,14 @@
  </div>
 </div>
   
-  ##
- ![Snake animation](https://github.com/st7712/st7712/blob/output/github-contribution-grid-snake-dark.svg)
+##
+<div style="text-align:center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/st7712/st7712/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/st7712/st7712/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+</div>
 
   ## My Current Projects
   - {st's cool selfbot} - Discord selfbot with some cool commands and features!
