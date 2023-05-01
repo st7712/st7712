@@ -11,13 +11,13 @@
   <picture>
     <source height="180em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-st7712.vercel.app/api?username=st7712&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
     <source height="180em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-st7712.vercel.app/api?username=st7712&show_icons=true&theme=github_light&include_all_commits=true&count_private=true" />
-    <img alt="github-snake" src="github-snake.svg" />
+    <img/>
   </picture>
   <a href="https://github.com/st7712">
   <picture>
     <source height="180em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-st7712.vercel.app/api/top-langs/?username=st7712&layout=compact&langs_count=7&theme=github_dark" />
     <source height="180em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-st7712.vercel.app/api/top-langs/?username=st7712&layout=compact&langs_count=7&theme=github_light" />
-    <img alt="github-snake" src="github-snake.svg" />
+    <img/>
   </picture>
 </div>
  
@@ -56,6 +56,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-st7712.vercel.app/api/pin/?username=st7712&repo=sts-cool-selfbot&theme=github_dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-st7712.vercel.app/api/pin/?username=st7712&repo=sts-cool-selfbot&theme=github_light" />
-    <img alt="github-snake" src="github-snake.svg" />
+    <img/>
   </picture>
 </div>
