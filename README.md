@@ -1,12 +1,41 @@
-## Hello! I'm st and I do cool things I guess.
-
 <div align="center">
-  <a href="https://github.com/st7712">
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=st7712&color=ff69b4"/>
+  <a href="https://discord.com/users/965930592162172988" target"blank_"><img src="https://cdn.discordapp.com/attachments/1096380481857126541/1116445727221088347/TdgTv3W.png"></a>
 </div>
 
 <div align="center">
+<h3>Contact me</h3>
+<a href="https://discord.com/users/484683804670296065" target"blank_"><img src="https://img.shields.io/badge/st%238008-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="mailto:imstcool@pm.me" target"blank_"><img src="https://shields.io/badge/imstcool%40pm.me%20-111111.svg?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
+</div>
+
+<div align="center">
+   <a href="https://discord.com/users/965930592162172988" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/965930592162172988?bg=0d1117&animated=true&hideDiscrim=false&borderRadius=12px" />
+        <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/965930592162172988?bg=FFFFFF&animated=true&hideDiscrim=false&borderRadius=12px" />
+        <img alt="github-snake" src="github-snake.svg" />
+      </picture>
+   </a>
+</div>
+
+<div align="center"><br>
+   <div style="display: inline_block">
+    <img align="center" alt="imst-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="imst-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="imst-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="imst-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="imst-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="imst-lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+  </div>
+ </div>
+</div>
+
+<div align="center"><br>
+  <a href="https://github.com/st7712">
+  <img src="https://komarev.com/ghpvc/?username=st7712&color=0d1117"/>
+</div>
+
+<div align="center"><br>
   <a href="https://github.com/st7712">
   <picture>
     <source height="180em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-7yfq-st7712.vercel.app/api?username=st7712&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
@@ -19,22 +48,6 @@
     <source height="180em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-7yfq-st7712.vercel.app/api/top-langs/?username=st7712&layout=compact&langs_count=7&theme=github_light" />
     <img/>
   </picture>
-</div>
- 
-
-   
-<div align="center"><br>
-   <div style="display: inline_block">
-    <img align="center" alt="imst-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="imst-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="imst-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="imst-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="imst-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="imst-lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-  </div>
-  
-   <br><a href = "mailto:imstcool@protonmail.com"><img src="https://img.shields.io/badge/-protonmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- </div>
 </div>
   
 ##
