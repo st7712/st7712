@@ -4,7 +4,7 @@
 
 <div align="center">
 <h3>Contact me</h3>
-<a href="https://discord.com/users/965930592162172988" target"blank_"><img src="https://img.shields.io/badge/st%238008-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/965930592162172988" target"blank_"><img src="https://img.shields.io/badge/@stitoo-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="mailto:imstcool@pm.me" target"blank_"><img src="https://shields.io/badge/imstcool%40pm.me%20-111111.svg?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
 </div>
 
