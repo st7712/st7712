@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://discord.com/users/965930592162172988" target"blank_"><img src="https://cdn.discordapp.com/attachments/1096380481857126541/1116445727221088347/TdgTv3W.png"></a>
+  <a href="https://bio.stito.tech/st" target"blank_"><img src="https://tabfiles.fra1.cdn.digitaloceanspaces.com/5f0eb561-ff8c-4bb6-8eb7-4ad3ee5df15a/dnA1NmSB.jpg"></a>
 </div>
 
 <div align="center">
